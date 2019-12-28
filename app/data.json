@@ -1,0 +1,17 @@
+[
+    {
+      "name": "zhangsan",
+      "age": 20,
+      "hobby": "sleep"
+    },
+    {
+      "name": "lisi",
+      "age": 19,
+      "hobby": "play"
+    },
+    {
+      "name":"wangwu",
+      "age":18,
+      "hobby":"basketball"
+      }
+  ]
