@@ -1,1 +1,2 @@
 基于angular.js开发的一个单页面应用程序（SPA）。
+README.MD里已经有怎么快速搭建angular-seed的方法，app为入口文件。
